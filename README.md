@@ -1,13 +1,8 @@
 # cumaean
 
-(2020-)
+From `2020`. I usually update this music list every 1-2 years. The last update was in `2024.10`.
 
-## Tools
-
-- [HTTrack](https://www.httrack.com/)
-- [wxMP3gain](https://github.com/cfgnunes/wxmp3gain)
-- [XMedia Recode](https://xmedia-recode.de)
-- [Tabulator](https://tabulator.info)
+![](asset/cumaean.png)
 
 ## Attribute
 
